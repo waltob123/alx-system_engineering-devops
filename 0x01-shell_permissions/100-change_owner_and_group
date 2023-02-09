@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo find . -type d,f -exec chown vicent:staff {} \;
+sudo chown -R vincent:staff .
