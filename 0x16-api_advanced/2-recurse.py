@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 '''
-2-recurse module
+2-recurse module - queries the Reddit API using
+    a recursive function
 '''
 
 import sys

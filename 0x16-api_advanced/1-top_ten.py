@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 '''
-1-top_ten module
+1-top_ten module - queries the Reddit API and returns the title of
+    the first 10 hot posts.
 '''
 
 import sys
